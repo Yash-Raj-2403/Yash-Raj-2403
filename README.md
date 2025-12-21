@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yash%20Raj's%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20&height=180&section=header&text=Yash%20Raj's%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 <!-- Typing SVG Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Yash+Raj+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%E2%9A%A1;DSA+Enthusiast+in+C%2B%2B+%F0%9F%94%A5;Building+Scalable+Solutions+%F0%9F%9A%80;Open+Source+Contributor+%E2%9C%A8)](https://git.io/typing-svg)
@@ -40,9 +40,9 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/💡-PROBLEM%20SOLVER-yellow?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🧠-LOGIC%20BUILDER-ff69b4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/💭-CRITICAL%20THINKER-00d9ff?style=for-the-badge" />
+![Problem Solver](https://img.shields.io/badge/💡_Problem_Solver-FFD700?style=for-the-badge&logoColor=black)
+![Logic Builder](https://img.shields.io/badge/🧠_Logic_Builder-FF1493?style=for-the-badge)
+![Critical Thinker](https://img.shields.io/badge/💭_Critical_Thinker-00CED1?style=for-the-badge)
 
 </div>
 
@@ -90,92 +90,73 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-### 🌍 [ROOTSnROUTES](https://github.com/yashraj24007/ROOTSnROUTES)
-
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100%">
+<details open>
+<summary><h3>🌍 ROOTSnROUTES - Travel Planning App</h3></summary>
 
 > Travel planning and route optimization application
 
-**Stack**: TypeScript, React, Node.js  
-**Features**: Route optimization, travel itineraries, destination recommendations  
-**Focus**: User-friendly travel experience with data-driven insights
+**🛠️ Stack**: TypeScript, React, Node.js  
+**✨ Features**: Route optimization, travel itineraries, destination recommendations  
+**🎯 Focus**: User-friendly travel experience with data-driven insights
 
-</td>
-<td width="50%" valign="top">
+[View Project →](https://github.com/yashraj24007/ROOTSnROUTES)
 
-### 🤖 [Fixora](https://github.com/yashraj24007/Fixora)
+</details>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223156-143a6d8a-894b-4a04-ad0d-1f6860e1c5b0.gif" width="100%">
+<details open>
+<summary><h3>🤖 Fixora - RAG-Based AI Assistant</h3></summary>
 
 > RAG-based intelligent assistant
 
-**Stack**: JavaScript, Node.js, RAG  
-**Features**: Advanced document retrieval, contextual AI responses, semantic search  
-**Highlights**: Leveraging RAG architecture for enhanced information retrieval
+**🛠️ Stack**: JavaScript, Node.js, RAG (Retrieval-Augmented Generation)  
+**✨ Features**: Advanced document retrieval, contextual AI responses, semantic search  
+**🎯 Highlights**: Leveraging RAG architecture for enhanced information retrieval
 
-</td>
-</tr>
+[View Project →](https://github.com/yashraj24007/Fixora)
 
-<tr>
-<td width="50%" valign="top">
+</details>
 
-### 🎵 [RhythmIQ](https://github.com/yashraj24007/RhythmIQ)
-
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce4ec2a33.gif" width="100%">
+<details open>
+<summary><h3>🎵 RhythmIQ - ECG Classification System</h3></summary>
 
 > ML-based ECG image classification system
 
-**Stack**: Python, TensorFlow/Keras, Deep Learning  
-**Features**: ECG image classification, pattern recognition, medical diagnosis support  
-**Highlights**: Deep learning for automated cardiovascular disease detection
+**🛠️ Stack**: Python, TensorFlow/Keras, Deep Learning, Image Processing  
+**✨ Features**: ECG image classification, pattern recognition, medical diagnosis support  
+**🎯 Highlights**: Deep learning for automated cardiovascular disease detection
 
-</td>
-<td width="50%" valign="top">
+[View Project →](https://github.com/yashraj24007/RhythmIQ)
 
-### 🧠 [MentiSphere](https://github.com/yashraj24007/MentiSphere)
+</details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%">
+<details open>
+<summary><h3>🧠 MentiSphere - Mental Wellness Platform 🏆</h3></summary>
 
-> Mental health and wellness platform 🏆 **2nd Prize - RedHat Hackathon**
+> Mental health and wellness platform - **2nd Prize RedHat Hackathon**
 
-**Stack**: TypeScript, React, Node.js  
-**Features**: Mood tracking, wellness resources, community support, mental health analytics  
-**Achievement**: Recognized for innovation in healthcare technology
+**🛠️ Stack**: TypeScript, React, Node.js  
+**✨ Features**: Mood tracking, wellness resources, community support, mental health analytics  
+**🏆 Achievement**: Recognized for innovation in healthcare technology  
+**🎯 Purpose**: Supporting mental health awareness and accessible self-care
 
-</td>
-</tr>
+[View Project →](https://github.com/yashraj24007/MentiSphere)
 
-<tr>
-<td width="50%" valign="top">
+</details>
 
-### 🩺 [MediConnect](https://github.com/yashraj24007/MediConnect)
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%">
+<details open>
+<summary><h3>🩺 MediConnect - Healthcare Management</h3></summary>
 
 > Healthcare management platform for patient-doctor connectivity
 
-**Stack**: TypeScript, Node.js, React  
-**Features**: Real-time appointment scheduling, patient records management, secure communication  
-**Impact**: Streamlines healthcare access and patient management
+**🛠️ Stack**: TypeScript, Node.js, React  
+**✨ Features**: Real-time appointment scheduling, patient records management, secure communication  
+**🎯 Impact**: Streamlines healthcare access and patient management
 
-</td>
-<td width="50%" valign="top">
+[View Project →](https://github.com/yashraj24007/MediConnect)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="300">
-  
-  ### 🚀 More Projects Coming Soon!
-  
-  Stay tuned for exciting new developments
-</div>
-
-</td>
-</tr>
-</table>
+</details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -185,35 +166,16 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 
 | 🔍 **Learning & Growth** | 🧩 **Problem Solving** | 🧠 **Core Skills** |
 |:------------------------:|:----------------------:|:------------------:|
-| DSA in C/C++ | Competitive Programming | Logic Building |
-| Data Analysis | Algorithm Optimization | Analytical Thinking |
-| ML Algorithms | LeetCode & CodeForces | Clean Code Practices |
+| **DSA in C++** | **Competitive Programming** | **Logic Building** |
+| **Deep Learning (NN)** | Algorithm Optimization | Analytical Thinking |
+| **Prompt Engineering** | LeetCode & CodeForces | Clean Code Practices |
 | System Design | Problem Patterns | Code Efficiency |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📚 C/C++ & DSA Expertise
-
-<div align="center">
-
-### 🎯 Competitive Programming & DSA (C++)
-
-Currently mastering **Data Structures & Algorithms** using **C++** through competitive programming platforms
-
-</div>
-
-- 🔥 **DSA in C++**: Practicing algorithmic problems, data structures, and optimization techniques
-- 📖 **[Java Repository](https://github.com/yashraj24007/Java)** - Collection of Java programs covering OOP, collections, multithreading, and design patterns
-- 💡 **Systems Programming**: Building efficient solutions and understanding memory management in **C/C++**
-- ⚡ **Problem Solving**: Active on competitive coding platforms, solving problems daily
-
-> 💭 *"Working on dedicated C++ DSA repository with problem solutions, templates, and CP strategies - coming soon!"*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -256,9 +218,9 @@ private:
     string name = "Yash Raj";
     vector<string> currentFocus = {
         "🔥 Mastering DSA & CP in C++",
-        "🚀 Building scalable full-stack applications",
-        "🤝 Contributing to open-source projects",
-        "🤖 Exploring ML/AI applications"
+        "🧠 Deep Learning & Neural Networks",
+        "🤖 Learning Prompt Engineering",
+        "🚀 Building scalable full-stack applications"
     };
     
     map<string, string> belief = {
@@ -318,9 +280,7 @@ public:
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20&height=120&section=footer&animation=twinkling"/>
 </p>
-
-⭐️ From [yashraj24007](https://github.com/yashraj24007) | *Made with ❤️ and lots of ☕*
 
 </div>
