@@ -1,13 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20&height=180&section=header&text=Yash%20Raj's%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,14,18&height=180&section=header&text=Yash%20Raj's%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 <!-- Typing SVG Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Yash+Raj+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%E2%9A%A1;DSA+Enthusiast+in+C%2B%2B+%F0%9F%94%A5;Building+Scalable+Solutions+%F0%9F%9A%80;Open+Source+Contributor+%E2%9C%A8)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&width=600&lines=Code+%7C+Learn+%7C+Build+%7C+Repeat+%F0%9F%94%81;Turning+Coffee+into+Code+%E2%98%95%F0%9F%92%BB" />
-</p>
+<br/>
 
 <p align="center">
   <a href="https://github.com/yashraj24007?tab=followers">
@@ -46,11 +44,11 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 
 </div>
 
+<br/>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🛠️ Tech Stack & Skills
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
 
 <div align="center">
 
@@ -75,22 +73,16 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🤖 Data Science & ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🏆 Featured Projects
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
-</div>
-
-<br>
 
 <details open>
 <summary><h3>🌍 ROOTSnROUTES - Travel Planning App</h3></summary>
@@ -167,9 +159,9 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 | 🔍 **Learning & Growth** | 🧩 **Problem Solving** | 🧠 **Core Skills** |
 |:------------------------:|:----------------------:|:------------------:|
 | **DSA in C++** | **Competitive Programming** | **Logic Building** |
-| **Deep Learning (NN)** | Algorithm Optimization | Analytical Thinking |
-| **Prompt Engineering** | LeetCode & CodeForces | Clean Code Practices |
-| System Design | Problem Patterns | Code Efficiency |
+| **Deep Learning (NN)** | **Algorithm Optimization** | **Analytical Thinking** |
+| **Prompt Engineering** | **LeetCode & CodeForces** | **Clean Code Practices** |
+| **System Design** | **Problem Patterns** | **Code Efficiency** |
 
 </div>
 
@@ -179,11 +171,9 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/api?username=yashraj24007&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yashraj24007&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashraj24007&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e4a&currStreakLabel=58a6ff" />
+  <📊img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashraj24007&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e4a&currStreakLabel=58a6ff" />
 </p>
 
 <p align="center">
@@ -198,89 +188,28 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🎯 What Drives Me
-
-<div align="center">
-
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-
-I'm fascinated by how **elegant code** and **smart algorithms** solve real-world problems. Every day, I'm learning something new - whether it's mastering a new **DSA pattern in C++**, building a **scalable web application**, or understanding **ML algorithms**.
-
-<br clear="right"/>
-
-</div>
-
-<div align="center">
-
-```cpp
-class Developer {
-private:
-    string name = "Yash Raj";
-    vector<string> currentFocus = {
-        "🔥 Mastering DSA & CP in C++",
-        "🧠 Deep Learning & Neural Networks",
-        "🤖 Learning Prompt Engineering",
-        "🚀 Building scalable full-stack applications"
-    };
-    
-    map<string, string> belief = {
-        {"motto", "Clean code is poetry"},
-        {"approach", "Learn, Build, Share, Repeat"}
-    };
-    
-public:
-    void collaborate() {
-        cout << "✨ Open to: Internships, Projects, Open Source!" << endl;
-        cout << "💬 Let's build something amazing together!" << endl;
-    }
-};
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🎮 Beyond Code
-
-<div align="center">
-
-🎮 **Weekend gamer** exploring action-adventure games • 🌍 Love strategy and problem-solving in games  
-🧠 **Gaming helps me think differently** • 🔄 Perfect way to unwind and recharge  
-
-*"Balance is key - code hard, play harder!"*
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ## 🤝 Let's Connect
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-2403-raj)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashraj24007@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashraj24007)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
+<br/><br/>
+
 ### 💬 Open to:
 **Tech Discussions** • **Collaboration Opportunities** • **DSA Problem Solving** • **Learning Together**
+
+<br/>
+
+### ⚡ *"Building intelligent solutions, one algorithm at a time!"* ⚡
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<div align="center">
-
-### ⚡ *"Building intelligent solutions, one algorithm at a time!"* ⚡
-
-### 🚀 Open to collaborations and learning opportunities 🚀
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20&height=120&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,14,18&height=120&section=footer&animation=twinkling"/>
 </p>
-
-</div>
