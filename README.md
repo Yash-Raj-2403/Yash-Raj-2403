@@ -167,13 +167,13 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yashraj24007&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-  <📊img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashraj24007&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e4a&currStreakLabel=58a6ff" />
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashraj24007&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e4a&currStreakLabel=58a6ff" />
 </p>
 
 <p align="center">
