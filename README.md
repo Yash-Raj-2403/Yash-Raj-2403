@@ -1,18 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yashraj's%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yash%20Raj's%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 <!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Yashraj+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%E2%9A%A1;DSA+Enthusiast+in+C%2B%2B+%F0%9F%94%A5;Building+Scalable+Solutions+%F0%9F%9A%80;Open+Source+Contributor+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Yash+Raj+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%E2%9A%A1;DSA+Enthusiast+in+C%2B%2B+%F0%9F%94%A5;Building+Scalable+Solutions+%F0%9F%9A%80;Open+Source+Contributor+%E2%9C%A8)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&width=600&lines=Code+%7C+Learn+%7C+Build+%7C+Repeat+%F0%9F%94%81;Turning+Coffee+into+Code+%E2%98%95%F0%9F%92%BB" />
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/yashraj24007?label=Follow&style=social)](https://github.com/yashraj24007)
-[![GitHub stars](https://img.shields.io/github/stars/yashraj24007?label=Stars&style=social)](https://github.com/yashraj24007)
-![Profile Views](https://komarev.com/ghpvc/?username=yashraj24007&color=blueviolet&style=for-the-badge&label=Profile+Views)
-![GitHub User's stars](https://img.shields.io/github/stars/yashraj24007?style=for-the-badge&logo=github&color=yellow)
+<p align="center">
+  <a href="https://github.com/yashraj24007?tab=followers">
+    <img src="https://img.shields.io/github/followers/yashraj24007?label=Followers&style=for-the-badge&logo=github&color=blue" alt="GitHub Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=yashraj24007&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/yashraj24007?tab=repositories">
+    <img src="https://img.shields.io/badge/Total%20Repos-13-orange?style=for-the-badge&logo=github" alt="Total Repositories" />
+  </a>
+</p>
 
 </div>
 
@@ -39,10 +44,6 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 <img src="https://img.shields.io/badge/🧠-LOGIC%20BUILDER-ff69b4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/💭-CRITICAL%20THINKER-00d9ff?style=for-the-badge" />
 
-</div>
-
-<div align="center">
-  <img src="https://github.com/yashraj24007/yashraj24007/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -73,12 +74,6 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔧 Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ### 🤖 Data Science & ML
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -91,38 +86,96 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 
 ## 🏆 Featured Projects
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌍 [ROOTSnROUTES](https://github.com/yashraj24007/ROOTSnROUTES)
+
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100%">
+
 > Travel planning and route optimization application
-- **Stack**: TypeScript, React, Node.js
-- **Features**: Route optimization, travel itineraries, destination recommendations
-- **Focus**: User-friendly travel experience with data-driven insights
+
+**Stack**: TypeScript, React, Node.js  
+**Features**: Route optimization, travel itineraries, destination recommendations  
+**Focus**: User-friendly travel experience with data-driven insights
+
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 [Fixora](https://github.com/yashraj24007/Fixora)
+
+<img src="https://user-images.githubusercontent.com/74038190/229223156-143a6d8a-894b-4a04-ad0d-1f6860e1c5b0.gif" width="100%">
+
 > RAG-based intelligent assistant
-- **Stack**: JavaScript, Node.js, RAG (Retrieval-Augmented Generation)
-- **Features**: Advanced document retrieval, contextual AI responses, semantic search
-- **Highlights**: Leveraging RAG architecture for enhanced information retrieval
+
+**Stack**: JavaScript, Node.js, RAG  
+**Features**: Advanced document retrieval, contextual AI responses, semantic search  
+**Highlights**: Leveraging RAG architecture for enhanced information retrieval
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🎵 [RhythmIQ](https://github.com/yashraj24007/RhythmIQ)
+
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce4ec2a33.gif" width="100%">
+
 > ML-based ECG image classification system
-- **Stack**: Python, TensorFlow/Keras, Deep Learning, Image Processing
-- **Features**: ECG image classification into categories, pattern recognition, medical diagnosis support
-- **Highlights**: Deep learning model for automated cardiovascular disease detection from ECG images
+
+**Stack**: Python, TensorFlow/Keras, Deep Learning  
+**Features**: ECG image classification, pattern recognition, medical diagnosis support  
+**Highlights**: Deep learning for automated cardiovascular disease detection
+
+</td>
+<td width="50%" valign="top">
 
 ### 🧠 [MentiSphere](https://github.com/yashraj24007/MentiSphere)
+
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%">
+
 > Mental health and wellness platform 🏆 **2nd Prize - RedHat Hackathon**
-- **Stack**: TypeScript, React, Node.js
-- **Features**: Mood tracking, wellness resources, community support, mental health analytics
-- **Achievement**: Recognized for innovation in healthcare technology
-- **Purpose**: Supporting mental health awareness and accessible self-care
+
+**Stack**: TypeScript, React, Node.js  
+**Features**: Mood tracking, wellness resources, community support, mental health analytics  
+**Achievement**: Recognized for innovation in healthcare technology
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🩺 [MediConnect](https://github.com/yashraj24007/MediConnect)
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%">
+
 > Healthcare management platform for patient-doctor connectivity
-- **Stack**: TypeScript, Node.js, React
-- **Features**: Real-time appointment scheduling, patient records management, secure communication
-- **Impact**: Streamlines healthcare access and patient management
+
+**Stack**: TypeScript, Node.js, React  
+**Features**: Real-time appointment scheduling, patient records management, secure communication  
+**Impact**: Streamlines healthcare access and patient management
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="300">
+  
+  ### 🚀 More Projects Coming Soon!
+  
+  Stay tuned for exciting new developments
+</div>
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -200,7 +253,7 @@ I'm fascinated by how **elegant code** and **smart algorithms** solve real-world
 ```cpp
 class Developer {
 private:
-    string name = "Yashraj";
+    string name = "Yash Raj";
     vector<string> currentFocus = {
         "🔥 Mastering DSA & CP in C++",
         "🚀 Building scalable full-stack applications",
