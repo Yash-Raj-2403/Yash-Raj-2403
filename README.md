@@ -111,7 +111,7 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 </details>
 
 <details open>
-<summary><h3>🎵 RhythmIQ - ECG Classification System</h3></summary>
+<summary><h3>❤️ RhythmIQ - ECG Classification System</h3></summary>
 
 > ML-based ECG image classification system
 
@@ -156,12 +156,12 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 
 <div align="center">
 
-| 🔍 **Learning & Growth** | 🧩 **Problem Solving** | 🧠 **Core Skills** |
+| 🔍 **Learning & Growth** | 🧩 **Problem Solving** | 🧠 **Core Competencies** |
 |:------------------------:|:----------------------:|:------------------:|
-| **DSA in C++** | **Competitive Programming** | **Logic Building** |
-| **Deep Learning (NN)** | **Algorithm Optimization** | **Analytical Thinking** |
-| **Prompt Engineering** | **LeetCode & CodeForces** | **Clean Code Practices** |
-| **System Design** | **Problem Patterns** | **Code Efficiency** |
+| **Data Structures & Algorithms (C++)** | **Competitive Programming** | **Computational Logic & Reasoning** |
+| **Deep Learning & Neural Networks** | **Algorithm Optimization Techniques** | **Critical & Analytical Thinking** |
+| **Advanced Prompt Engineering** | **Competitive Coding Platforms** | **Software Engineering Best Practices** |
+| **System Architecture & Design** | **Design Pattern Implementation** | **Performance Optimization** |
 
 </div>
 
@@ -181,7 +181,7 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashraj24007&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" width="100%"/>
+  <img src="https://raw.githubusercontent.com/yashraj24007/yashraj24007/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
 </div>
