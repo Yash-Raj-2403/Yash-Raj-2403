@@ -20,17 +20,26 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="AI" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 Passionate developer on a mission to build **intelligent, scalable solutions** that make a real impact!
 
 - 🔭 Currently working on **competitive programming** and **full-stack applications**
 - 🌱 Mastering **DSA in C++** and **modern web technologies**
 - 💡 Exploring **ML applications**, **backend systems**, and **healthcare tech**
-- 🎯 Goal: Contribute to impactful open-source projects and innovative solutions
+- 🎯 **Future Scope**: Aspiring **AI Engineer** (core) + **MLOps** (edge)
+- 🚀 Goal: Build production-ready AI systems and contribute to impactful open-source projects
 - ⚡ Belief: *"Clean code is not written by following a set of rules. It's written by caring."*
 
 <br clear="right"/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/💡-PROBLEM%20SOLVER-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🧠-LOGIC%20BUILDER-ff69b4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💭-CRITICAL%20THINKER-00d9ff?style=for-the-badge" />
+
+</div>
 
 <div align="center">
   <img src="https://github.com/yashraj24007/yashraj24007/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -97,10 +106,10 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 - **Highlights**: Leveraging RAG architecture for enhanced information retrieval
 
 ### 🎵 [RhythmIQ](https://github.com/yashraj24007/RhythmIQ)
-> Java-based AI music analysis system
-- **Stack**: Java, AI/ML algorithms, Audio Processing
-- **Features**: Intelligent music analysis, pattern recognition, recommendation engine
-- **Highlights**: AI-powered music intelligence using Java
+> ML-based ECG image classification system
+- **Stack**: Python, TensorFlow/Keras, Deep Learning, Image Processing
+- **Features**: ECG image classification into categories, pattern recognition, medical diagnosis support
+- **Highlights**: Deep learning model for automated cardiovascular disease detection from ECG images
 
 ### 🧠 [MentiSphere](https://github.com/yashraj24007/MentiSphere)
 > Mental health and wellness platform 🏆 **2nd Prize - RedHat Hackathon**
