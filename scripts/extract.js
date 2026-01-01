@@ -6,7 +6,7 @@ const exec = (cmd) => execSync(cmd, { encoding: 'utf-8' });
 try {
   const pinned = exec(`gh api graphql -f query='
     query {
-      user(login: "yashraj24007") {
+      user(login: "Yash-Raj-2403") {
         pinnedItems(first: 6, types: REPOSITORY) {
           nodes {
             ... on Repository {

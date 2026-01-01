@@ -8,11 +8,11 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/yashraj24007?tab=followers">
-    <img src="https://img.shields.io/github/followers/yashraj24007?label=Followers&style=for-the-badge&logo=github&color=blue" alt="GitHub Followers" />
+  <a href="https://github.com/Yash-Raj-2403?tab=followers">
+    <img src="https://img.shields.io/github/followers/Yash-Raj-2403?label=Followers&style=for-the-badge&logo=github&color=blue" alt="GitHub Followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=yashraj24007&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/yashraj24007?tab=repositories">
+  <img src="https://komarev.com/ghpvc/?username=Yash-Raj-2403&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/Yash-Raj-2403?tab=repositories">
     <img src="https://img.shields.io/badge/Total%20Repos-13-orange?style=for-the-badge&logo=github" alt="Total Repositories" />
   </a>
 </p>
@@ -93,7 +93,7 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 **✨ Features**: Route optimization, travel itineraries, destination recommendations  
 **🎯 Focus**: User-friendly travel experience with data-driven insights
 
-[View Project →](https://github.com/yashraj24007/ROOTSnROUTES)
+[View Project →](https://github.com/Yash-Raj-2403/ROOTSnROUTES)
 
 </details>
 
@@ -106,7 +106,7 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 **✨ Features**: Advanced document retrieval, contextual AI responses, semantic search  
 **🎯 Highlights**: Leveraging RAG architecture for enhanced information retrieval
 
-[View Project →](https://github.com/yashraj24007/Fixora)
+[View Project →](https://github.com/Yash-Raj-2403/Fixora)
 
 </details>
 
@@ -119,7 +119,7 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 **✨ Features**: ECG image classification, pattern recognition, medical diagnosis support  
 **🎯 Highlights**: Deep learning for automated cardiovascular disease detection
 
-[View Project →](https://github.com/yashraj24007/RhythmIQ)
+[View Project →](https://github.com/Yash-Raj-2403/RhythmIQ)
 
 </details>
 
@@ -133,7 +133,7 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 **🏆 Achievement**: Recognized for innovation in healthcare technology  
 **🎯 Purpose**: Supporting mental health awareness and accessible self-care
 
-[View Project →](https://github.com/yashraj24007/MentiSphere)
+[View Project →](https://github.com/Yash-Raj-2403/MentiSphere)
 
 </details>
 
@@ -146,7 +146,7 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 **✨ Features**: Real-time appointment scheduling, patient records management, secure communication  
 **🎯 Impact**: Streamlines healthcare access and patient management
 
-[View Project →](https://github.com/yashraj24007/MediConnect)
+[View Project →](https://github.com/Yash-Raj-2403/MediConnect)
 
 </details>
 
@@ -172,16 +172,16 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 <div align="center">
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yashraj24007&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashraj24007&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e4a&currStreakLabel=58a6ff" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yash-Raj-2403&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Raj-2403&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e4a&currStreakLabel=58a6ff" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashraj24007&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Raj-2403&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yashraj24007/yashraj24007/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Yash-Raj-2403/Yash-Raj-2403/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
 </div>
@@ -194,7 +194,7 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-2403-raj)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashraj24007@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashraj24007)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yash-Raj-2403)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/yashraj_2403/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yashraj_2403)
 
