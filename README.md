@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Yash%20Raj&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5&height=180&section=header&text=Yash%20Raj's%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 <!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile;%F0%9F%92%BB+Building+Scalable+Solutions;%E2%9A%A1+DSA+%7C+Full+Stack+%7C+AI%2FML;%F0%9F%9A%80+Let's+Create+Something+Amazing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Yash+Raj+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%E2%9A%A1;DSA+Enthusiast+in+C%2B%2B+%F0%9F%94%A5;Building+Scalable+Solutions+%F0%9F%9A%80;Open+Source+Contributor+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,50 +21,9 @@
 
 ---
 
-## � Competitive Programming Stats
+## 🌟 About Me
 
-<div align="center">
-
-<!-- LeetCode Stats Card -->
-<a href="https://leetcode.com/u/yashraj_2403/">
-  <img src="https://leetcard.jacoblin.cool/yashraj_2403?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" />
-</a>
-
-<br/><br/>
-
-<!-- Competitive Programming Badges -->
-<p>
-  <a href="https://leetcode.com/u/yashraj_2403/">
-    <img src="https://cp-logo.vercel.app/leetcode/yashraj_2403" alt="LeetCode Rating" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/yashraj_2403">
-    <img src="https://cp-logo.vercel.app/codechef/yashraj_2403" alt="CodeChef Rating" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/yashraj_2403">
-    <img src="https://cp-logo.vercel.app/codeforces/yashraj_2403" alt="Codeforces Rating" height="40"/>
-  </a>
-</p>
-
-<br/>
-
-<!-- Problems Solved Counter -->
-<p>
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Problems%20Solved&query=solvedProblem&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyashraj_2403&logo=leetcode&logoColor=yellow" alt="LeetCode Problems"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/LeetCode-Top%2020%25-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Ranking"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/DSA-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="DSA C++"/>
-</p>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
-
-<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d6167652e6d79626f782e636c6f75642f6d792f696d672f32303231303930393132343135312e676966">
+<img align="right" alt="AI" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 Passionate developer on a mission to build **intelligent, scalable solutions** that make a real impact!
 
@@ -79,83 +38,183 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 
 <div align="center">
 
-![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat-square)
-![Problem Solver](https://img.shields.io/badge/Problem%20Solver-%F0%9F%92%A1-yellow?style=flat-square)
-![Team Player](https://img.shields.io/badge/Team%20Player-%F0%9F%A4%9D-blue?style=flat-square)
+![Problem Solver](https://img.shields.io/badge/💡_Problem_Solver-FFD700?style=for-the-badge&logoColor=black)
+![Logic Builder](https://img.shields.io/badge/🧠_Logic_Builder-FF1493?style=for-the-badge)
+![Critical Thinker](https://img.shields.io/badge/💭_Critical_Thinker-00CED1?style=for-the-badge)
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🤖 Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🚀 Featured Projects
+## 🏆 Featured Projects
+
+<details open>
+<summary><h3>🌍 ROOTSnROUTES - Travel Planning App</h3></summary>
+
+> Travel planning and route optimization application
+
+**🛠️ Stack**: TypeScript, React, Node.js  
+**✨ Features**: Route optimization, travel itineraries, destination recommendations  
+**🎯 Focus**: User-friendly travel experience with data-driven insights
+
+[View Project →](https://github.com/Yash-Raj-2403/ROOTSnROUTES)
+
+</details>
+
+<details open>
+<summary><h3>🤖 Fixora - RAG-Based AI Assistant</h3></summary>
+
+> RAG-based intelligent assistant
+
+**🛠️ Stack**: JavaScript, Node.js, RAG (Retrieval-Augmented Generation)  
+**✨ Features**: Advanced document retrieval, contextual AI responses, semantic search  
+**🎯 Highlights**: Leveraging RAG architecture for enhanced information retrieval
+
+[View Project →](https://github.com/Yash-Raj-2403/Fixora)
+
+</details>
+
+<details open>
+<summary><h3>❤️ RhythmIQ - ECG Classification System</h3></summary>
+
+> ML-based ECG image classification system
+
+**🛠️ Stack**: Python, TensorFlow/Keras, Deep Learning, Image Processing  
+**✨ Features**: ECG image classification, pattern recognition, medical diagnosis support  
+**🎯 Highlights**: Deep learning for automated cardiovascular disease detection
+
+[View Project →](https://github.com/Yash-Raj-2403/RhythmIQ)
+
+</details>
+
+<details open>
+<summary><h3>🧠 MentiSphere - Mental Wellness Platform 🏆</h3></summary>
+
+> Mental health and wellness platform - **2nd Prize RedHat Hackathon**
+
+**🛠️ Stack**: TypeScript, React, Node.js  
+**✨ Features**: Mood tracking, wellness resources, community support, mental health analytics  
+**🏆 Achievement**: Recognized for innovation in healthcare technology  
+**🎯 Purpose**: Supporting mental health awareness and accessible self-care
+
+[View Project →](https://github.com/Yash-Raj-2403/MentiSphere)
+
+</details>
+
+<details open>
+<summary><h3>🩺 MediConnect - Healthcare Management</h3></summary>
+
+> Healthcare management platform for patient-doctor connectivity
+
+**🛠️ Stack**: TypeScript, Node.js, React  
+**✨ Features**: Real-time appointment scheduling, patient records management, secure communication  
+**🎯 Impact**: Streamlines healthcare access and patient management
+
+[View Project →](https://github.com/Yash-Raj-2403/MediConnect)
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📈 Current Focus & Journey
 
 <div align="center">
 
-| Project | Description | Tech |
-|:-------:|:------------|:----:|
-| [🌍 **ROOTSnROUTES**](https://github.com/Yash-Raj-2403/ROOTSnROUTES) | Travel planning & route optimization | `TypeScript` `React` `Node.js` |
-| [🤖 **Fixora**](https://github.com/Yash-Raj-2403/Fixora) | RAG-based AI assistant | `JavaScript` `Node.js` `RAG` |
-| [❤️ **RhythmIQ**](https://github.com/Yash-Raj-2403/RhythmIQ) | ML-based ECG classification | `Python` `TensorFlow` `Deep Learning` |
-| [🧠 **MentiSphere**](https://github.com/Yash-Raj-2403/MentiSphere) | Mental wellness platform 🏆 | `TypeScript` `React` `Node.js` |
-| [🩺 **MediConnect**](https://github.com/Yash-Raj-2403/MediConnect) | Healthcare management system | `TypeScript` `React` `Node.js` |
+| 🔍 **Learning & Growth** | 🧩 **Problem Solving** | 🧠 **Core Competencies** |
+|:------------------------:|:----------------------:|:------------------:|
+| **Data Structures & Algorithms (C++)** | **Competitive Programming** | **Computational Logic & Reasoning** |
+| **Deep Learning & Neural Networks** | **Algorithm Optimization Techniques** | **Critical & Analytical Thinking** |
+| **Advanced Prompt Engineering** | **Competitive Coding Platforms** | **Software Engineering Best Practices** |
+| **System Architecture & Design** | **Design Pattern Implementation** | **Performance Optimization** |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yash-Raj-2403&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=a9fef7&title_color=a9fef7" height="165" alt="stats"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yash-Raj-2403&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a9fef7" height="165" alt="languages"/>
+<a href="https://github.com/Yash-Raj-2403">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yash-Raj-2403&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&cache_seconds=1800" alt="Yash Raj's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Raj-2403&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages"/>
+</a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Yash-Raj-2403&theme=tokyonight&hide_border=true&background=1a1b27&ring=a9fef7&fire=a9fef7&currStreakLabel=a9fef7" alt="streak"/>
+<a href="https://github.com/Yash-Raj-2403">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Raj-2403&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e4a&currStreakLabel=58a6ff&cache_seconds=1800" alt="GitHub Streak"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/Yash-Raj-2403">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Raj-2403&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" alt="Contribution Graph"/>
+</a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-2403-raj)
-[![Gmail](https://img.shields.io/badge/yashraj24007@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yashraj24007@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yash-Raj-2403)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-2403-raj)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashraj24007@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yash-Raj-2403)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/yashraj_2403/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yashraj_2403)
+
+<br/><br/>
+
+### 💬 Open to:
+**Tech Discussions** • **Collaboration Opportunities** • **DSA Problem Solving** • **Learning Together**
 
 <br/>
 
-**💬 Open to:** Tech Discussions • Collaboration • Open Source • Learning Together
-
-<br/>
-
-*⚡ "Building intelligent solutions, one algorithm at a time!" ⚡*
+### ⚡ *"Building intelligent solutions, one algorithm at a time!"* ⚡
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5&height=120&section=footer&animation=twinkling"/>
+</p>
