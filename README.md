@@ -179,12 +179,6 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 <br/>
 
 <a href="https://github.com/Yash-Raj-2403">
-  <img src="https://github-readme-streak-stats-nine-rho.vercel.app/?user=Yash-Raj-2403&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Yash-Raj-2403">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Raj-2403&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </a>
 
