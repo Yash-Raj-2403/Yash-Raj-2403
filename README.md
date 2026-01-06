@@ -179,7 +179,7 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 <br/>
 
 <a href="https://github.com/Yash-Raj-2403">
-  <img src="https://streak-stats.demolab.com/?user=Yash-Raj-2403&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-nine-rho.vercel.app/?user=Yash-Raj-2403&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </a>
 
 <br/>
