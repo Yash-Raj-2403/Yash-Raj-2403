@@ -13,7 +13,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=Yash-Raj-2403&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/Yash-Raj-2403?tab=repositories">
-    <img src="https://img.shields.io/badge/Total%20Repos-13-orange?style=for-the-badge&logo=github" alt="Total Repositories" />
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Total%20Repos&style=for-the-badge&color=orange&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYash-Raj-2403" alt="Total Repositories" />
   </a>
 </p>
 
