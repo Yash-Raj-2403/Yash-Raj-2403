@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5&height=180&section=header&text=Yash%20Raj's%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Yash%20Raj&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Yash+Raj+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%E2%9A%A1;DSA+Enthusiast+in+C%2B%2B+%F0%9F%94%A5;Building+Scalable+Solutions+%F0%9F%9A%80;Open+Source+Contributor+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile;%F0%9F%92%BB+Building+Scalable+Solutions;%E2%9A%A1+DSA+%7C+Full+Stack+%7C+AI%2FML;%F0%9F%9A%80+Let's+Create+Something+Amazing!)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,9 +21,50 @@
 
 ---
 
-## 🌟 About Me
+## � Competitive Programming Stats
 
-<img align="right" alt="AI" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<div align="center">
+
+<!-- LeetCode Stats Card -->
+<a href="https://leetcode.com/u/yashraj_2403/">
+  <img src="https://leetcard.jacoblin.cool/yashraj_2403?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" />
+</a>
+
+<br/><br/>
+
+<!-- Competitive Programming Badges -->
+<p>
+  <a href="https://leetcode.com/u/yashraj_2403/">
+    <img src="https://cp-logo.vercel.app/leetcode/yashraj_2403" alt="LeetCode Rating" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/yashraj_2403">
+    <img src="https://cp-logo.vercel.app/codechef/yashraj_2403" alt="CodeChef Rating" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/yashraj_2403">
+    <img src="https://cp-logo.vercel.app/codeforces/yashraj_2403" alt="Codeforces Rating" height="40"/>
+  </a>
+</p>
+
+<br/>
+
+<!-- Problems Solved Counter -->
+<p>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Problems%20Solved&query=solvedProblem&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyashraj_2403&logo=leetcode&logoColor=yellow" alt="LeetCode Problems"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/LeetCode-Top%2020%25-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Ranking"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/DSA-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="DSA C++"/>
+</p>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+## �🌟 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 Passionate developer on a mission to build **intelligent, scalable solutions** that make a real impact!
 
@@ -46,7 +87,7 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 🛠️ Tech Stack & Skills
 
@@ -80,7 +121,7 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 🏆 Featured Projects
 
@@ -150,7 +191,7 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 📈 Current Focus & Journey
 
@@ -165,32 +206,41 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
+<!-- GitHub Stats Card -->
 <a href="https://github.com/Yash-Raj-2403">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yash-Raj-2403&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&cache_seconds=1800" alt="Yash Raj's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Raj-2403&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yash-Raj-2403&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yash-Raj-2403&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="Yash Raj's GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yash-Raj-2403&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yash-Raj-2403&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
+  </picture>
 </a>
 
 <br/>
 
+<!-- GitHub Streak Stats -->
 <a href="https://github.com/Yash-Raj-2403">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Raj-2403&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e4a&currStreakLabel=58a6ff&cache_seconds=1800" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Yash-Raj-2403&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e4a&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 </a>
 
 <br/>
 
+<!-- Activity Graph -->
 <a href="https://github.com/Yash-Raj-2403">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Raj-2403&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" alt="Contribution Graph"/>
 </a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 🤝 Let's Connect
 
@@ -199,8 +249,7 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-2403-raj)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashraj24007@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yash-Raj-2403)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/yashraj_2403/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yashraj_2403)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Yash-Raj-2403)
 
 <br/><br/>
 
@@ -211,10 +260,19 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 
 ### ⚡ *"Building intelligent solutions, one algorithm at a time!"* ⚡
 
+<br/>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5&height=120&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer"/>
 </p>
