@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5&height=180&section=header&text=Yash%20Raj's%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5&height=180&section=header&text=Yash%20Raj&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 <!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Yash+Raj+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%E2%9A%A1;DSA+Enthusiast+in+C%2B%2B+%F0%9F%94%A5;Building+Scalable+Solutions+%F0%9F%9A%80;Open+Source+Contributor+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Competitive+Programmer;DSA+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,26 +23,17 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="AI" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-Passionate developer on a mission to build **intelligent, scalable solutions** that make a real impact!
+Passionate software developer focused on building **scalable, intelligent solutions** that create real-world impact.
 
-- 🔭 Currently working on **competitive programming** and **full-stack applications**
-- 🌱 Mastering **DSA in C++** and **modern web technologies**
-- 💡 Exploring **ML applications**, **backend systems**, and **healthcare tech**
-- 🎯 **Future Scope**: Aspiring **AI Engineer** (core) + **MLOps** (edge)
-- 🚀 Goal: Build production-ready AI systems and contribute to impactful open-source projects
-- ⚡ Belief: *"Clean code is not written by following a set of rules. It's written by caring."*
+- 🔭 **Currently**: Building full-stack applications & solving algorithmic challenges
+- 🌱 **Learning**: Advanced DSA in C++, System Design & Cloud Architecture
+- 💡 **Interests**: AI/ML Applications, Healthcare Technology, Backend Systems
+- 🎯 **Goal**: Become an AI Engineer with expertise in MLOps
+- 🚀 **Vision**: Contribute to production-grade AI systems & open-source projects
 
 <br clear="right"/>
-
-<div align="center">
-
-![Problem Solver](https://img.shields.io/badge/💡_Problem_Solver-FFD700?style=for-the-badge&logoColor=black)
-![Logic Builder](https://img.shields.io/badge/🧠_Logic_Builder-FF1493?style=for-the-badge)
-![Critical Thinker](https://img.shields.io/badge/💭_Critical_Thinker-00CED1?style=for-the-badge)
-
-</div>
 
 <br/>
 
@@ -152,22 +143,7 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📈 Current Focus & Journey
-
-<div align="center">
-
-| 🔍 **Learning & Growth** | 🧩 **Problem Solving** | 🧠 **Core Competencies** |
-|:------------------------:|:----------------------:|:------------------:|
-| **Data Structures & Algorithms (C++)** | **Competitive Programming** | **Computational Logic & Reasoning** |
-| **Deep Learning & Neural Networks** | **Algorithm Optimization Techniques** | **Critical & Analytical Thinking** |
-| **Advanced Prompt Engineering** | **Competitive Coding Platforms** | **Software Engineering Best Practices** |
-| **System Architecture & Design** | **Design Pattern Implementation** | **Performance Optimization** |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -198,7 +174,7 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -206,14 +182,13 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 [![Gmail](https://img.shields.io/badge/yashraj24007@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashraj24007@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yash-Raj-2403)
 
-<br/><br/>
+<br/>
 
-### 💬 Open to:
-**Tech Discussions** • **Collaboration Opportunities** • **DSA Problem Solving** • **Learning Together**
+**Open to:** Collaborations • Open Source • Tech Discussions • Freelance Opportunities
 
 <br/>
 
-### ⚡ *"Building intelligent solutions, one algorithm at a time!"* ⚡
+*"Building intelligent solutions, one algorithm at a time."*
 
 </div>
 
