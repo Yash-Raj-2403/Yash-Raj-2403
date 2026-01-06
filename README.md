@@ -172,20 +172,20 @@ Passionate developer on a mission to build **intelligent, scalable solutions** t
 <div align="center">
 
 <a href="https://github.com/Yash-Raj-2403">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yash-Raj-2403&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="Yash Raj's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yash-Raj-2403&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yash-Raj-2403&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Yash Raj's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yash-Raj-2403&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/Yash-Raj-2403">
-  <img src="https://streak-stats.demolab.com/?user=Yash-Raj-2403&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e4a&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Yash-Raj-2403&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/Yash-Raj-2403">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Raj-2403&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Raj-2403&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </a>
 
 </div>
